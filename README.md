@@ -8,4 +8,4 @@ El siguiente es un demo de la interfaz a la que se debe llegar (funcionalidades 
 
 Solución:
 
-https://github.com/MisionTIC4b/f_shopping_app
+https://github.com/Gioandres30/f_shopping_app_template-main---copia
