@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ASUS\Desktop\tic\ret\f_shopping_app_template-main\build\windows\CMakeFiles\bfba83868c38a1f9f167e77414549d33\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{79F98F3D-8C2E-3C14-B3EA-AE6D39433695}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
